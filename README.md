@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebraar
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning c#
 - 📫 How to reach me ebolakovic@outlook.com
 
 <!---
