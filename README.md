@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebraar
 - 🌱 I’m currently learning c#
-- 📫 How to reach me ebolakovic@outlook.com
+- 📫 How to reach me ebbet468@gmail.com
 
 <!---
 ebraar/ebraar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
