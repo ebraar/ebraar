@@ -1,5 +1,5 @@
 # 💫 About Me: Hello, I'm Ebrar. I am a 3rd year student of Computer Engineering at Konya Technical University. I am trying to develop myself on web technologies and database.
-🔭 I’m currently working on c# and java<br>🌱 I’m currently learning c#
+🔭 I’m currently working on java script<br>🌱 I’m currently learning web development
 
 
 # 💻 Tech Stack:
