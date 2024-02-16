@@ -1,4 +1,4 @@
-<H6>💫 About Me: Hello, I'm Ebrar. I am a 3rd year student of Computer Engineering at Konya Technical University. I am trying to develop myself on web technologies and database.
+<H6>💫 About Me: Hello, I'm Ebrar. I am a 3rd year student of Computer Engineering at Konya Technical University. I am trying to develop myself on image processing.
 🔭 I’m currently working on python<br>🌱 I’m currently learning image processing and object tracking algorithm</H6> 
 
 # 📊 GitHub Stats:
